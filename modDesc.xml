@@ -103,14 +103,14 @@ Changelog 2.1.0.3:
 ]]></fr>
         <pl><![CDATA[Modyfikacja Płodozmian wprowadza zachętę do zmianowania upraw zamiast stosowania monokultur.
 
-Sprawdź, czy poradzisz sobie w sytuacji, gdzie azot i wapno same już nie wystarczają do zaspokojenia apetytu upraw.
+Sprawdź, czy poradzisz sobie w sytuacji, gdzie samo wapno i azot nie są jedynymi składnikami odżywczymi, które rośliny zużywają podczas wzrostu.
 
-Możesz zyskać dodatkowe 15% plonu, jeśli poprowadzisz zmianowanie poprawnie.
-Możesz stracić więcej plonu, jeśli nie zadbasz o kondycję gleby!
+Możesz zyskać dodatkowe 15% plonu, jeżeli przeprowadzisz zmianowanie poprawnie.
+Stracisz jednak jeszcze więcej, jeśli nie zadbasz o kondycję gleby!
 
 Główne cechy:
-- uprawy mają określone okresy powrotu na stanowisko: trzy lata, dwa lata lub coroczne
-- możliwość zostawienia pola odłogiem, celem rewitalizacji gleby
+- specyficzne dla każdej uprawy okresy przed ponownym zasadzeniem w celu ograniczenia monokultury
+- możliwość odłogowania do dwóch lat w celu rewitalizacji gleby (tylko z włączonym wzrostem sezonowym)
 - dane o zmianowaniu widoczne na panelu informacji o polu
 - szczegółowy opis w menu pomocy (są obrazki!)
 - planer płodozmianu pozwalający określić potencjalne plony
@@ -122,13 +122,13 @@ Changelog 2.5.0.1:
 - naprawiono krytyczny problem przy włączonym wzroście sezonowym
 
 Changelog 2.5.0.0:
-- poprawiono błąd synchronizacji w trybie wieloosobowym
-- UWAGA: historia upraw zostanie usunięta podczas aktualizacji
+- naprawiono błąd synchronizacji w trybie wieloosobowym
+- UWAGA: historia upraw zostanie utracona przy aktualizacji starszego zapisu
 
 Changelog 2.1.0.3:
-- Crop Rotation planner added
-- Precision Farming DLC is not required anymore
-- small update to yield factors (up to 5% difference)
+- dodano planer płodozmianu
+- Precision Farming DLC nie jest już wymagany
+- mała aktualizacja do współczynników plonów (do 5% różnicy)
 ]]></pl>
         <cz><![CDATA[Mod Crop Rotation nabádá uživatele ke střídání plodin namísto monokultur.
 
